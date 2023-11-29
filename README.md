@@ -4,7 +4,7 @@
 
 Hello, I'm Laurent.
 
-- 🎂 37 yo.
+- 🎂 38 yo.
 - 😊 Arts, music and social psychology.
 - 📑 [Last project I worked on](https://github.com/DRossyCPNV/LifeProManager).
 - 🎮 PS games and chess.
