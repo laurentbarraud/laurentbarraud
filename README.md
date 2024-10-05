@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **laurentbarraud/laurentbarraud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello, I'm Laurent.
+
+- 🎂 38 yo.
+- 💬 Ask me about arts, music, chess. 
+- 🌱 I’m currently learning 3D game dev with OpenGL in C++
+- 📫 Bugs reports & kudos on my Bluewin mail
