@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hello, I'm Laurent.
 
-- 🎂 38 yo.
+- 🎂 39 yo.
 - 💬 Ask me about arts, music, chess. 
 - 🌱 I’m currently learning 3D game dev with OpenGL in C++
 - 📫 Bugs reports & kudos on my Bluewin mail
