@@ -17,5 +17,5 @@ Hello, I'm Laurent.
 
 - 🎂 39 yo.
 - 💬 Ask me about arts, music, chess. 
-- 🌱 I’m currently learning 3D game dev with OpenGL in C++
+- 🌱 I’m currently learning the job of Full-Stack Developer with a Coursera training
 - 📫 Bugs reports & kudos on my Bluewin mail
